@@ -52,7 +52,6 @@
     </div>
     <nav id="mainav" class="fl_right">
       <ul class="clear">
-        <li class="active"><a href="index.php">Нүүр</a></li>
         <li><a class="drop" href="#">Зөвлгөө</a>
           <ul>
             <li><a href="pages/index1.php">Эрүүл хооллолт</a></li>
