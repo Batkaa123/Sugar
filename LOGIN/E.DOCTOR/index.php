@@ -57,7 +57,7 @@
             <li><a href="pages/index1.php">Эрүүл хооллолт</a></li>
             <li><a href="pages/index2.php">Шинж тэмдэгүүд илэрсэн үед</a></li>
             <li><a href="pages/index3.php">Сахарыг хэрхэн таних вэ?</a></li>
-            <li><a href="pages/index4.php">Эмнэлэг</a></li>
+            <li><a href="https://www.intermed.mn/2020/997579/">Эмнэлэг</a></li>
           </ul>
         </li>
           <li><a class="drop" href="#">Мэдээ мэдээлэл</a>
@@ -92,7 +92,7 @@
           <article>
             <p></p>
             <h3 class="heading">Цусан дахь сахарын хэмжээ</h3>
-            <p>Цусан дахь сахарын багасалт (Гипогликеми) нь таны цусан дахь сахар (глюкоз) хэвийн хэмжээнээс буурах үед тохиолддог нөхцөл байдал юм.</p>
+            <p>Бидний биед ямар нэг зүйл болохгүй байгаа үед илэрдэг олон шинж тэмдэг байдаг. Тэгвэл тэдгээр шинж тэмдгүүд ямар дохио өгдгийг танин мэдсэнээр аливаа өвчнийг хүндрэхээс нь өмнө..</p>
             <footer><a class="btn inverse" href="pages/sidebar-left.php"> Дэлгэрэнгүй</a></footer>
           </article>
         </li>
@@ -151,7 +151,7 @@
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
-<div class="wrapper bgded overlay" style="background-image:url('images/demo/images(1).jfif');">
+<div class="wrapper bgded overlay" style="background-image:url('images/demo/backgrounds/Diyabet.gif');">
   <article class="hoc container clear"> 
     <!-- ################################################################################################ -->
     <div class="three_quarter first">
@@ -175,43 +175,43 @@
     <ul class="nospace group services">
       <li class="one_third first">
         <article><a href="pages/gallery.html"><i class="icon fa fa-chevron-up"></i></a>
-          <h6 class="heading">Hendrerit bibendum</h6>
-          <p>Id erat etiam molestie mi et tincidunt facilisis nulla urna viverra nibh in ullamcorper&hellip;</p>
+          <h6 class="heading">Эрүүл агаар </h6>
+          <p>Дэлхийн Эрүүл Мэндийн Байгууллагын (ДЭМБ) мэдээлснээр 2022 онд дэлхий&hellip;</p>
         <!-- ################################################################################################ -->
         </article>
       </li>
       <li class="one_third">
         <article><a href="#"><i class="icon fa fa-calendar-o"></i></a>
-          <h6 class="heading">Vestibulum suscipit</h6>
-          <p>Enim nullam tincidunt tortor eget amet dui duis sed vestibulum velit praesent blandit lorem viverra&hellip;</p>
+          <h6 class="heading">Өдөр тутмын сахрын хэрэглээ</h6>
+          <p>Дэлхий тэр чигээрээ даяарчлагдаж хувьсан өөрчлөгдөж байна. Цагаан хор&hellip;</p>
          <!-- ################################################################################################ -->
         </article>
       </li>
       <li class="one_third">
         <article><a href="#"><i class="icon fa fa-coffee"></i></a>
-          <h6 class="heading">Velit eu maximus massa</h6>
-          <p>Turpis vel egestas ante etiam maximus placerat placerat aliquam in lectus ut lectus&hellip;</p>
+          <h6 class="heading">Эрүүл хооллолт</h6>
+          <p>Загас, тахиа, шош, самар зэрэг нь эрүүл мэндэд сайн бөгөөд олон төрлийн уураг&hellip;</p>
          <!-- ################################################################################################ -->
         </article>
       </li>
       <li class="one_third first">
         <article><a href="#"><i class="icon fa fa-dribbble"></i></a>
-          <h6 class="heading">Dignissim id maecenas</h6>
-          <p>Scelerisque sollicitudin aenean efficitur magna non aliquet convallis phasellus ut rutrum&hellip;</p>
+          <h6 class="heading">Идэвхтэй дасгал хөдөлгөөн</h6>
+          <p>Идэвхтэй дасгал хөдөлгөөн нь хүний сэтгэл зүйд эергээр нөлөөлж өөртөө&hellip;</p>
           <!-- ################################################################################################ -->
         </article>
       </li>
       <li class="one_third">
         <article><a href="#"><i class="icon fa fa-phone"></i></a>
-          <h6 class="heading">Tempus odio a ipsum</h6>
-          <p>Neque vivamus eu arcu enim phasellus efficitur euismod augue sed bibendum ipsum sodales&hellip;</p>
+          <h6 class="heading">Эмчийн тусламж</h6>
+          <p>Иргэдэд дотрын нарийн мэргэжлийн эмчийн тусламж үйлчилгээ үзүүлэх&hellip;</p>
           <!-- ################################################################################################ -->
         </article>
       </li>
       <li class="one_third">
         <article><a href="#"><i class="icon fa fa-envelope-o"></i></a>
-          <h6 class="heading">Consequat scelerisque</h6>
-          <p>Eget aenean tellus leo consequat sit amet quam ut interdum commodo nunc nunc ipsum lacus&hellip;</p>
+          <h6 class="heading">Хэрэгтэй мэдээ мэдээлэл</h6>
+          <p>Энэ нь хүссэн үр дүнд хүрэхийн тулд бодит нөхцөл байдалд хэрэглэгдэх баримт,&hellip;</p>
           <!-- ################################################################################################ --> 
         </article>
       </li>

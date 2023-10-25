@@ -54,7 +54,7 @@ Licence URI: https://www.os-templates.com/template-terms
             <li><a href="index1.php">Эрүүл хооллолт</a></li>
             <li><a href="index2.php">Шинж тэмдэгүүд илэрсэн үед</a></li>
             <li><a href="index3.phps">Сахарыг хэрхэн таних вэ?</a></li>
-            <li><a href="index4.php">Эмнэлэг</a></li>
+            <li><a href="https://www.intermed.mn/2020/997579/">Эмнэлэг</a></li>
           </ul>
         </li>
         <li class="active"><a class="drop" href="#">Мэдээ мэдээлэл</a>

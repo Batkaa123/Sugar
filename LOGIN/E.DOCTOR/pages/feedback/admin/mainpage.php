@@ -7,7 +7,7 @@
 #customers {
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   border-collapse: collapse;
-  width: 30%;
+  width: 100%;
 }
 
 #customers td, #customers th {

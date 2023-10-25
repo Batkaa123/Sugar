@@ -52,8 +52,8 @@ Licence URI: https://www.os-templates.com/template-terms
         <li class="active"><a class="drop" href="#">Зөвлгөө</a>
           <ul>
             <li><a href="index2.php">Шинж тэмдэгүүд илэрсэн үед</a></li>
-            <li><a href="pages/sidebar-left.php">Сахарыг хэрхэн таних вэ?</a></li>
-            <li><a href="pages/sidebar-right.php">Эмнэлэг</a></li>
+            <li><a href="">Сахарыг хэрхэн таних вэ?</a></li>
+            <li><a href="https://www.intermed.mn/2020/997579/">Эмнэлэг</a></li>
           </ul>
         </li>
         <li> <a class="drop" href="#">Мэдээ мэдээлэлэ</a>

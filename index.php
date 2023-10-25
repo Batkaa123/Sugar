@@ -28,6 +28,7 @@
         <li><a href="#"><i class="fa fa-lg fa-facebook"></i></a></li>
         <li><a href="#"><i class="fa fa-lg fa-map-marker"></i></a></li>
         <li><a href="login/index.php">Нэвтрэх</a></li>
+        <li><a href="login/E.DOCTOR/pages/feedback/admin/index.php">Admin</a></li>
       </ul>
     </div>
     <!-- ################################################################################################ -->
@@ -58,7 +59,7 @@
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
-<div class="bgded overlay" style="background-image:url('images/demo/backgrounds/01.png');">
+<div class="bgded overlay" style="background-image:url('images/demo/backgrounds/sugar_cube1kv.gif');">
   <div id="pageintro" class="hoc clear"> 
     <!-- ################################################################################################ -->
     <div class="flexslider basicslider">
@@ -67,16 +68,16 @@
           <article>
             <p></p>
             <h3 class="heading">Чихрийн шижин</h3>
-            <p>Өнөөдөр дэлхий дээр энэ өвчнөөр өвдсөн хүний тоо 347 саяд хүрээд байгаагаас Монголд 7000 нь байдаг гэсэн тоо баримт байдаг.</p>
-            <footer><a class="btn" href="pages/full-width.html">Дэлгэрэнгүй</a></footer>
+            <p>Өнөөдөр дэлхий дээр энэ өвчнөөр өвдсөн хүний тоо 422 саяд хүрээд байгаагаас Монголд 7000 нь байдаг гэсэн тоо баримт байдаг.</p>
+            <footer><a class="btn" href="login/index.php">Дэлгэрэнгүй</a></footer>
           </article>
         </li>
         <li>
           <article>
             <p></p>
             <h3 class="heading">Цусан дахь сахарын хэмжээ</h3>
-            <p>Цусан дахь сахарын багасалт (Гипогликеми) нь таны цусан дахь сахар (глюкоз) хэвийн хэмжээнээс буурах үед тохиолддог нөхцөл байдал юм.</p>
-            <footer><a class="btn inverse" href="pages/sidebar-left.html"> Дэлгэрэнгүй</a></footer>
+            <p>Бидний биед ямар нэг зүйл болохгүй байгаа үед илэрдэг олон шинж тэмдэг байдаг. Тэгвэл тэдгээр шинж тэмдгүүд ямар дохио өгдгийг танин мэдсэнээр аливаа өвчнийг хүндрэхээс нь өмнө.. </p>
+            <footer><a class="btn inverse" href="login/index.php"> Дэлгэрэнгүй</a></footer>
           </article>
         </li>
         <li>
@@ -84,7 +85,7 @@
             <p></p>
             <h3 class="heading">Урьдчилан сэргийлэх</h3>
             <p>Эрүүл зөв хооллох, Идэвхитэй дасгал хөдөлгөөн хийх, Илүүдэл жингүй байх, илүүдэл жинтэй бол түүнийгээ хасах, Хорт зуршлаас татгалзах</p>
-            <footer><a class="btn" href="pages/sidebar-right.html">Дэлгэрэнгүй</a></footer>
+            <footer><a class="btn" href="login/index.php">Дэлгэрэнгүй</a></footer>
           </article>
         </li>
       </ul>
@@ -106,22 +107,22 @@
     <p class="btmspace-50 justified">Чихрийн шижин (лат. Diabetes mellitus) нь хүний биеийн нойр булчирхай хангалттай хэмжээний инсулин боловсруулж чадахгүй, эсвэл боловсорсон инсулин нь бие эсүүдэд нөлөөлж чадахгүй болсон үед үүсдэг бодисын солилцооны бүлэг өвчин. Чихрийн шижингийн үед хүний цусан дахь сахарын хэмжээ өндөр болдог. Цусан дахь сахарын төвшин их байхын сонгодог шинж тэмдэгүүд нь, их шээх (полиури), их уух (полидипси) ба идэмхий (полифаги) болдог.</p>
     <ul class="nospace group center">
       <li class="one_quarter first">
-        <article><a href="#"><i class="icon btmspace-30 fa fa-flask"></i></a>
+        <article><a href="login/index.php"><i class="icon btmspace-30 fa fa-flask"></i></a>
           <h6 class="heading">Өвчин</h6>
         </article>
       </li>
       <li class="one_quarter">
-        <article><a href="#"><i class="icon btmspace-30 fa fa-adjust"></i></a>
+        <article><a href="login/index.php"><i class="icon btmspace-30 fa fa-adjust"></i></a>
           <h6 class="heading">Хамрах хэлбэр</h6>
         </article>
       </li>
       <li class="one_quarter">
-        <article><a href="#"><i class="icon btmspace-30 fa fa-bank"></i></a>
+        <article><a href="login/index.php"><i class="icon btmspace-30 fa fa-bank"></i></a>
           <h6 class="heading">Өвчлөл</h6>
         </article>
       </li>
       <li class="one_quarter">
-        <article><a href="#"><i class="icon btmspace-30 fa fa-500px"></i></a>
+        <article><a href="login/index.php"><i class="icon btmspace-30 fa fa-500px"></i></a>
           <h6 class="heading">Нийт</h6>
         </article>
       </li>
@@ -134,14 +135,14 @@
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
-<div class="wrapper bgded overlay" style="background-image:url('images/demo/images(1).jfif');">
+<div class="wrapper bgded overlay" style="background-image:url('images/demo/backgrounds/serch.gif');">
   <article class="hoc container clear"> 
     <!-- ################################################################################################ -->
     <div class="three_quarter first">
       <h6 class="nospace">СУДАЛГАА ӨГӨХ</h6>
       <p class="nospace">хэрэв таньд  шинж тэмдэгүүд илэрч байвал</p>
     </div>
-    <footer class="one_quarter"><a class="btn" href="pages/basic-grid.html">Энд дарнуу &raquo;</a></footer>
+    <footer class="one_quarter"><a class="btn" href="login/index.php">Энд дарнуу &raquo;</a></footer>
     <!-- ################################################################################################ -->
   </article>
 </div>
@@ -157,44 +158,44 @@
     </div>
     <ul class="nospace group services">
       <li class="one_third first">
-        <article><a href="pages/gallery.html"><i class="icon fa fa-chevron-up"></i></a>
-          <h6 class="heading">Hendrerit bibendum</h6>
-          <p>Id erat etiam molestie mi et tincidunt facilisis nulla urna viverra nibh in ullamcorper&hellip;</p>
+        <article><a href="login/index.php"><i class="icon fa fa-chevron-up"></i></a>
+          <h6 class="heading">Эрүүл агаар </h6>
+          <p>Дэлхийн Эрүүл Мэндийн Байгууллагын (ДЭМБ) мэдээлснээр 2022 онд дэлхий&hellip;</p>
         <!-- ################################################################################################ -->
         </article>
       </li>
       <li class="one_third">
-        <article><a href="#"><i class="icon fa fa-calendar-o"></i></a>
-          <h6 class="heading">Vestibulum suscipit</h6>
-          <p>Enim nullam tincidunt tortor eget amet dui duis sed vestibulum velit praesent blandit lorem viverra&hellip;</p>
+        <article><a href="login/index.php"><i class="icon fa fa-calendar-o"></i></a>
+          <h6 class="heading">Өдөр тутмын сахрын хэрэглээ</h6>
+          <p>Дэлхий тэр чигээрээ даяарчлагдаж хувьсан өөрчлөгдөж байна. Цагаан хор&hellip;</p>
          <!-- ################################################################################################ -->
         </article>
       </li>
       <li class="one_third">
-        <article><a href="#"><i class="icon fa fa-coffee"></i></a>
-          <h6 class="heading">Velit eu maximus massa</h6>
-          <p>Turpis vel egestas ante etiam maximus placerat placerat aliquam in lectus ut lectus&hellip;</p>
+        <article><a href="login/index.php"><i class="icon fa fa-coffee"></i></a>
+          <h6 class="heading">Эрүүл хооллолт</h6>
+          <p>Загас, тахиа, шош, самар зэрэг нь эрүүл мэндэд сайн бөгөөд олон төрлийн уураг&hellip;</p>
          <!-- ################################################################################################ -->
         </article>
       </li>
       <li class="one_third first">
-        <article><a href="#"><i class="icon fa fa-dribbble"></i></a>
-          <h6 class="heading">Dignissim id maecenas</h6>
-          <p>Scelerisque sollicitudin aenean efficitur magna non aliquet convallis phasellus ut rutrum&hellip;</p>
+        <article><a href="login/index.php"><i class="icon fa fa-dribbble"></i></a>
+          <h6 class="heading">Идэвхтэй дасгал хөдөлгөөн</h6>
+          <p>Идэвхтэй дасгал хөдөлгөөн нь хүний сэтгэл зүйд эергээр нөлөөлж өөртөө&hellip;</p>
           <!-- ################################################################################################ -->
         </article>
       </li>
       <li class="one_third">
-        <article><a href="#"><i class="icon fa fa-phone"></i></a>
-          <h6 class="heading">Tempus odio a ipsum</h6>
-          <p>Neque vivamus eu arcu enim phasellus efficitur euismod augue sed bibendum ipsum sodales&hellip;</p>
+        <article><a href="login/index.php"><i class="icon fa fa-phone"></i></a>
+          <h6 class="heading">Эмчийн тусламж</h6>
+          <p>Иргэдэд дотрын нарийн мэргэжлийн эмчийн тусламж үйлчилгээ үзүүлэх&hellip;</p>
           <!-- ################################################################################################ -->
         </article>
       </li>
       <li class="one_third">
-        <article><a href="#"><i class="icon fa fa-envelope-o"></i></a>
-          <h6 class="heading">Consequat scelerisque</h6>
-          <p>Eget aenean tellus leo consequat sit amet quam ut interdum commodo nunc nunc ipsum lacus&hellip;</p>
+        <article><a href="login/index.php"><i class="icon fa fa-envelope-o"></i></a>
+          <h6 class="heading">Хэрэгтэй мэдээ мэдээлэл</h6>
+          <p>Энэ нь хүссэн үр дүнд хүрэхийн тулд бодит нөхцөл байдалд хэрэглэгдэх баримт,&hellip;</p>
           <!-- ################################################################################################ --> 
         </article>
       </li>
@@ -227,7 +228,7 @@
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
-<div class="wrapper bgded overlay" style="background-image:url('images/demo/backgrounds/et.webp');">
+<div class="wrapper bgded overlay" style="background-image:url('images/demo/backgrounds/sugar1.webp');">
   <article class="hoc container"> 
     <!-- ################################################################################################ -->
     <div class="sectiontitle">
@@ -276,7 +277,7 @@
               <li><i class="fa fa-calendar-o"></i> 05/01/2015</li>
             </ul>
             <h6 class="heading font-x1">Нийт 1000 хүн тутамын 84.6 хувь&hellip;</h6>
-            <p><a class="btn" href="index.php">Цааш нь &raquo;</a></p>
+            <p><a class="btn" href="ilogin/index.php">Цааш нь &raquo;</a></p>
           </div>
         </article>
       </li>
@@ -287,7 +288,7 @@
               <li><i class="fa fa-calendar-o"></i> 04/01/2020</li>
             </ul>
             <h6 class="heading font-x1">Нийт 1000 хүн тутамын 99.3 хувь&hellip;</h6>
-            <p><a class="btn" href="index.php">Цааш нь &raquo;</a></p>
+            <p><a class="btn" href="login/index.php">Цааш нь &raquo;</a></p>
           </div>
         </article>
       </li>
@@ -298,14 +299,14 @@
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
-<div class="wrapper bgded overlay" style="background-image:url('images/demo/backgrounds/images.jpg');">
+<div class="wrapper bgded overlay" style="background-image:url('images/demo/backgrounds/index.gif');">
   <article class="hoc container center"> 
     <!-- ################################################################################################ -->
     <div class="sectiontitle">
       <h3 class="heading">Бидний тухай илүү их мэдээлэл</h3>
       <p>Та доорх линкээр орж илүү дэлгэрэнгүй мэдээлэл аваарай.</p>
     </div>
-    <footer><a class="btn inverse" href="#">access</a></footer>
+    <footer><a class="btn inverse" href="login/index.php">access</a></footer>
     <!-- ################################################################################################ -->
   </article>
 </div>
