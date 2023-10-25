@@ -31,9 +31,9 @@
     </div>
     <div class="fl_right">
       <ul class="nospace">
-        <li><a href="#"><i class="fa fa-lg fa-home"></i></a></li>
-        <li><a href="#"><i class="fa fa-lg fa-facebook"></i></a></li>
-        <li><a href="#"><i class="fa fa-lg fa-map-marker"></i></a></li>
+        <li><a href="../index.php"><i class="fa fa-lg fa-home"></i></a></li>
+        <li><a href="https://www.facebook.com/battsooj.amartvwstin"><i class="fa fa-lg fa-facebook"></i></a></li>
+        <li><a href="https://www.google.com/maps/@47.9166464,106.9088768,12z"><i class="fa fa-lg fa-map-marker"></i></a></li>
         <li><a href="../E.DOCTOR/pages/feedback/index.php">Судалгаа өгөх</a></li>
         <li><a href="../logout.php">Гарах</a></li>
       </ul>
