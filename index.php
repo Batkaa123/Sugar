@@ -256,7 +256,7 @@
     <!-- ################################################################################################ -->
     <div class="sectiontitle">
       <h3 class="heading">Чихрийн шижин өвчнөөр өвчлөх магадлал</h3>
-      <p>Судалгаанаас үзэхэд Монгол Улсад 20-79 насны 1000 хүний 99.3 тохиолдол буюу насанд хүрсэн 20 хүний нэг нь чихрийн шижин өвчнтэй байна.</p>
+      <p>Судалгаанаас үзэхэд Монгол Улсад 20-79 насны 1000 хүний 99.3 тохиолдол буюу насанд хүрсэн 20 хүний нэг нь чихрийн шижин өвчинтэй байна.</p>
     </div>
     <ul class="nospace group">
       <li class="one_third first">
@@ -265,7 +265,7 @@
             <ul>
               <li><i class="fa fa-calendar-o"></i> 06/01/2010</li>
             </ul>
-            <h6 class="heading font-x1">Нийт 1000 хүн тутамын 71.3 хувь&hellip;</h6>
+            <h6 class="heading font-x1">Нийт 1000 хүн тутмын 71.3 хувь&hellip;</h6>
             <p><a class="btn" href="login/index.php">Цааш нь &raquo;</a></p>
           </div>
         </article>
@@ -276,7 +276,7 @@
             <ul>
               <li><i class="fa fa-calendar-o"></i> 05/01/2015</li>
             </ul>
-            <h6 class="heading font-x1">Нийт 1000 хүн тутамын 84.6 хувь&hellip;</h6>
+            <h6 class="heading font-x1">Нийт 1000 хүн тутмын 84.6 хувь&hellip;</h6>
             <p><a class="btn" href="ilogin/index.php">Цааш нь &raquo;</a></p>
           </div>
         </article>
@@ -287,7 +287,7 @@
             <ul>
               <li><i class="fa fa-calendar-o"></i> 04/01/2020</li>
             </ul>
-            <h6 class="heading font-x1">Нийт 1000 хүн тутамын 99.3 хувь&hellip;</h6>
+            <h6 class="heading font-x1">Нийт 1000 хүн тутмын 99.3 хувь&hellip;</h6>
             <p><a class="btn" href="login/index.php">Цааш нь &raquo;</a></p>
           </div>
         </article>
@@ -324,7 +324,7 @@
           Улаанбаатар &amp; Сүхбаатар дүүрэг, 6-р хороо/Сани 34-р байр
           </address>
         </li>
-        <li><i class="fa fa-phone"></i> +976 86800928</li>
+        <li><i class="fa fa-phone"></i> +976 91777339</li>
         <li><i class="fa fa-envelope-o"></i> batb73979@gmail.com</li>
       </ul>
       <ul class="faico clear">
